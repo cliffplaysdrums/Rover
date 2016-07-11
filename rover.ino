@@ -3,7 +3,7 @@
  */
 
 #include <Adafruit_MotorShield.h>
-#include <Wire.h> //may not be necessary 
+#include <Wire.h> 
 #include "RoverConstants.h"
 
 //prototypes
